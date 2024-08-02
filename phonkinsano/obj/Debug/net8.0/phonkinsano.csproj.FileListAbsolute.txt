@@ -1,0 +1,14 @@
+/home/et12alumno/Escritorio/phonkinsano/obj/Debug/net8.0/phonkinsano.GeneratedMSBuildEditorConfig.editorconfig
+/home/et12alumno/Escritorio/phonkinsano/obj/Debug/net8.0/phonkinsano.AssemblyInfoInputs.cache
+/home/et12alumno/Escritorio/phonkinsano/obj/Debug/net8.0/phonkinsano.AssemblyInfo.cs
+/home/et12alumno/Escritorio/phonkinsano/obj/Debug/net8.0/phonkinsano.csproj.CoreCompileInputs.cache
+/home/et12alumno/Escritorio/phonkinsano/bin/Debug/net8.0/phonkinsano
+/home/et12alumno/Escritorio/phonkinsano/bin/Debug/net8.0/phonkinsano.deps.json
+/home/et12alumno/Escritorio/phonkinsano/bin/Debug/net8.0/phonkinsano.runtimeconfig.json
+/home/et12alumno/Escritorio/phonkinsano/bin/Debug/net8.0/phonkinsano.dll
+/home/et12alumno/Escritorio/phonkinsano/bin/Debug/net8.0/phonkinsano.pdb
+/home/et12alumno/Escritorio/phonkinsano/obj/Debug/net8.0/phonkinsano.dll
+/home/et12alumno/Escritorio/phonkinsano/obj/Debug/net8.0/refint/phonkinsano.dll
+/home/et12alumno/Escritorio/phonkinsano/obj/Debug/net8.0/phonkinsano.pdb
+/home/et12alumno/Escritorio/phonkinsano/obj/Debug/net8.0/phonkinsano.genruntimeconfig.cache
+/home/et12alumno/Escritorio/phonkinsano/obj/Debug/net8.0/ref/phonkinsano.dll
